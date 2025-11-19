@@ -1,7 +1,7 @@
 # reimagined-broccoli
 Fun and games writing internet poetry
 
-**Recipe**
+**Recipe:**
 
 1. figure out the basics of Github
 2. test that collaboration is working
