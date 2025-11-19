@@ -7,5 +7,5 @@ Fun and games writing internet poetry
 
 **add some sources of inspiration**
 
-- Chia Amisola's [poetic web]https://poeticweb.com/
-- [HTTPoetics]https://httpoetics.bytoddwords.com/
+- Chia Amisola's [poetic web](https://poeticweb.com/)
+- [HTTPoetics](https://httpoetics.bytoddwords.com/)
