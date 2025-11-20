@@ -1,4 +1,4 @@
-# reimagined-broccoli
+# Reimagined Broccoli
 Fun and games writing internet poetry
 
 **Recipe:**
