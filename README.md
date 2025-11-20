@@ -1,5 +1,5 @@
 # Reimagined Broccoli
-Fun and games writing internet poetry
+*Fun and games writing internet poetry*
 
 **Recipe:**
 
