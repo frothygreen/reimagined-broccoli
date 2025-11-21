@@ -1,11 +1,11 @@
 #Some Rules#
 
 **Constraint Set: "Remake"**
-0. Opening line
-1. Replace
-2. Reorder
-3. Renew
-4. Return
-5. Remark
+1. Opening line
+2. Replace
+3. Reorder
+4. Renew
+5. Return
+6. Remark
 
 **further notes and refinements**
