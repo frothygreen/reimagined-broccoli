@@ -16,3 +16,8 @@
 
 - [poetic web](https://poeticweb.com/)
 - [HTTPoetics](https://httpoetics.bytoddwords.com/)
+
+**other pages**
+
+- Letters to the Editor: text file where where where can "talk to each other."
+- Rules: Markdown file where we can play with "Constraint Sets."
