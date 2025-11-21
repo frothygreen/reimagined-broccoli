@@ -1,6 +1,8 @@
 # Some Rules
 
-**Constraint Set: "Remake"**
+**Constraint Set: "Remake"**  
+*details to follow*
+
 1. Opening line
 2. Replace
 3. Reorder
