@@ -1,4 +1,4 @@
-#Some Rules#
+# Some Rules
 
 **Constraint Set: "Remake"**
 1. Opening line
