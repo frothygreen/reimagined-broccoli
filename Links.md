@@ -5,4 +5,4 @@
 - [OuLiPo](https://en.wikipedia.org/wiki/Oulipo)
 - [Frogments from the Frag Pool](https://smallwebannex.neocities.org/frog/barwin-beaulieu-frogments.pdf)
 
-Ancient puddle &nbsp;&nbsp;&nbsp;&nbsp; frog leaps --  missed!
+Ancient puddle &nbsp;&nbsp;&nbsp;&nbsp; frog leaps -- &nbsp;&nbsp;&nbsp;&nbsp;  missed!
