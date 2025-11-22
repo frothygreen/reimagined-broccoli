@@ -1,7 +1,7 @@
 # Some Rules
 
 **Constraint Set: "Remake"**  
-*details to follow*
+*details to be fleshed out*
 
 1. Opening line
 2. Replace
