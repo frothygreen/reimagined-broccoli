@@ -1,4 +1,4 @@
 - [OuLiPo](https://en.wikipedia.org/wiki/Oulipo)
 - [Frogments from the Frag Pool](https://smallwebannex.neocities.org/frog/barwin-beaulieu-frogments.pdf)
 - [Collaborative Poetry](https://en.wikipedia.org/wiki/Collaborative_poetry)
-- [Nelson Ball](14-1/samizdatpress.typepad.com/hal_chapbook_a_rattle_of_/hal-cover-a-chapbook-of-poetry-by-nelson-ball.html)
+- [Nelson Ball](https://briefpoems.wordpress.com/2022/07/07/cement-angels-brief-poems-by-nelson-ball/)
