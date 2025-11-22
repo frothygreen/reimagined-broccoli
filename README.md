@@ -1,6 +1,6 @@
 # Reimagined Broccoli
 
-*Fun and games writing internet poetry*
+*Fun and games writing collaborative internet poetry*
 
 - My question here is what should this repo handle via branching vs adding editable text or [Markdown](https://www.markdownguide.org/cheat-sheet/) files?
 - Something to test a few different ways.
