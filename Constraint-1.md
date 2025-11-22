@@ -4,10 +4,10 @@
 - 4 lines
 - first and last word are the same
 
-- the 'Host' writes the first (and fourth) word
-- the 'Guest' writes the second word (starting arc)
-- the 'Host' writes the third word (ending arc)
-- the 'Guest' writes the title
+- the 'Host' adds the first (and fourth) word
+- the 'Guest' adds the second word (starting arc)
+- the 'Host' adds the third word (ending arc)
+- the 'Guest' adds the title
 
 <br/>
 examples:
