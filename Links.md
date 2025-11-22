@@ -1,2 +1,3 @@
 - [OuLiPo](https://en.wikipedia.org/wiki/Oulipo)
 - [Frogments from the Frag Pool](https://smallwebannex.neocities.org/frog/barwin-beaulieu-frogments.pdf)
+- [Collaborative Poetry](https://en.wikipedia.org/wiki/Collaborative_poetry)
