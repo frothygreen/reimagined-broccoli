@@ -20,6 +20,6 @@
 
 **other pages**
 
-- Letters to the Editor: text file where where where can "talk to each other." (set to edit for easier reading of long lines)
+- Letters to the Editor: text file where we can "talk to each other." (set to edit for easier reading of long lines)
 - Rules: Markdown file where we can play with "Constraint Sets."
 - Links: Mardown file where we can add links
