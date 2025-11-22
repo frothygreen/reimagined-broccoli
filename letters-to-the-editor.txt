@@ -1,5 +1,0 @@
-R: This is where we can talk to each other outside of email etc...
-
-(A: for you) 
-
-R: I'm digging into "constrained writing." Maybe that's what I'm most interested in Renga, not so much the details (as interesting as they might be) but the general sense of rule or constraint. I'm going to create a markdown file to gather links.
