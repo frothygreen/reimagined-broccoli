@@ -3,3 +3,4 @@
 - [Collaborative Poetry](https://en.wikipedia.org/wiki/Collaborative_poetry)
 - [Nelson Ball](https://briefpoems.wordpress.com/2022/07/07/cement-angels-brief-poems-by-nelson-ball/)
 - [George Swede's "Towards a Definition of the English Haiku"](https://web.archive.org/web/20130201101609/http://web.archive.org/web/20020604205037/http://www.haikai.info/articles/swede.definition.html)
+- [Brief Poems](https://briefpoems.wordpress.com/)
