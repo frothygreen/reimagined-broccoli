@@ -12,7 +12,7 @@
 
 **further notes and refinements**
 
-I took a little look at 'Constraint based Creativity' and mostly landed on business sites.
+I took a look at 'Constraint based Creativity' and mostly landed on business sites.
 A tyical expression is "working *inside* the box."
 
 A constraint is always contrasted with unlimited freedom.
