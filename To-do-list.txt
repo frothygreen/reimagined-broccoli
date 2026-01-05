@@ -1,0 +1,16 @@
+- go over the structure of the site.
+- script out a little of the history and goals.
+    - this could be summarised on the Wiki.
+ 
+- some topics:
+    - collaboration (Alex)
+    - linking
+    - constraints (nesting)
+    - poetry as 'game' (see renga)
+    - Github as a 'meta-constraint'
+    
+- build an HTML poem page through Github (on a new branch).
+    - with some simple styling.
+    
+- Talk to Jason about the date/timing/etc.
+- Talk to Alex about contributing.
