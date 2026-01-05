@@ -5,6 +5,7 @@
 - some topics:
     - collaboration (Alex)
     - linking
+    - miniature/micro writing
     - constraints (nesting)
     - poetry as 'game' (see renga)
     - Github as a 'meta-constraint'
