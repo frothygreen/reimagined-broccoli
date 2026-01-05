@@ -1,3 +1,4 @@
+To start with:
 - [OuLiPo](https://en.wikipedia.org/wiki/Oulipo)
 - [Frogments from the Frag Pool](https://smallwebannex.neocities.org/frog/barwin-beaulieu-frogments.pdf)
 - [Collaborative Poetry](https://en.wikipedia.org/wiki/Collaborative_poetry)
@@ -10,3 +11,6 @@ Thought I'd add some Lydia Davis ("literary miniatures") links:
 - [*The Collected Stories* at Archive.org](https://archive.org/details/isbn_2900312655395/page/n1/mode/2up)
 - [a Guardian article about the book](https://www.theguardian.com/books/2010/aug/07/collected-stories-lydia-davis-review)
 - [An interview with Eleanor Wachtel in *Brick*](https://brickmag.com/an-interview-with-lydia-davis/)
+
+Otherwise:
+- [Applied Poetics (*very Oulipian!*](https://www.appliedpoetics.org/)]
