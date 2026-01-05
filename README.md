@@ -28,3 +28,4 @@
 
 - just added first Constraint Set - #1: 'Return'. Constraint-1.md
 - started 2026 with a little bit of housekeeping 
+- got Github Desktop working with Brackets Editor
