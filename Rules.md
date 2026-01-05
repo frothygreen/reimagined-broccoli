@@ -12,9 +12,14 @@
 
 **further notes and refinements**
 
-I took a look at 'Constraint based Creativity' and mostly landed on business sites.
-A tyical expression is "working *inside* the box."
+I googled 'Constraint based Creativity' and mostly landed on business sites hyping entrepreneurial creativity.
+A typical expression is "working *inside* the box." 
 
-A constraint is always contrasted with unlimited freedom.
-It somewhow doesn't feel quite right to describe a set of formal rules as a straightforward constraint.
+A constraint is (supposed) to allow creative movement and is always contrasted with the (supposed) stifling quality of unlimited freedom.
+
+How do you come up with a constraint in the first place?
+Is the default unlimited freedom - something we have to cut a space out of to work in?
+
+Maybe the default isn't freedom but preconceived constraints, ones we have a hard time getting past.
+
 
