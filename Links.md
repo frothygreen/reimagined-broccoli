@@ -13,4 +13,6 @@ Thought I'd add some Lydia Davis ("literary miniatures") links:
 - [An interview with Eleanor Wachtel in *Brick*](https://brickmag.com/an-interview-with-lydia-davis/)
 
 Otherwise:
-- [Applied Poetics (*very Oulipian!*](https://www.appliedpoetics.org/)]
+- [Applied Poetics](https://www.appliedpoetics.org/) - *very Oulipian!*
+- [Ian Bogost's *Play Anything*](https://www.google.com/search?q=ian+bogost+play+anything&newwindow=1&client=firefox-b-e&hs=cxRU&sca_esv=9cf56067a199ff72&sxsrf=AE3TifPKXQ_4s7Lr-nbgQbeaQzdu4Q0mvA%3A1767731323956&ei=e3BdafmLOq_n0PEPwbuDsAU&ved=0ahUKEwi5tf2s4PeRAxWvMzQIHcHdAFYQ4dUDCBE&uact=5&oq=ian+bogost+play+anything&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGlhbiBib2dvc3QgcGxheSBhbnl0aGluZzIEECMYJzIFEC4YgARIlglQoQZYoQZwAXgAkAEAmAGBAaABgQGqAQMwLjG4AQPIAQD4AQGYAgKgApMBwgILEAAYgAQYsAMYogTCAggQABiwAxjvBZgDAIgGAZAGApIHAzEuMaAH8AWyBwMwLjG4B4sBwgcDMi0yyAcJgAgA&sclient=gws-wiz-serp)
+- [A Poet's Guide to Git](https://writerly.dev/#fn:1) - working with the command line... 
