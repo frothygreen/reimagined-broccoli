@@ -1,9 +1,11 @@
 # Constraint Set #1 &mdash; 'Return'
 
+structure:
 - 4 word poem
 - 4 lines
 - first and last word are the same
 
+order:
 - the 'Host' adds the first (and fourth) word
 - the 'Guest' adds the second word (starting arc)
 - the 'Host' adds the third word (ending arc)
