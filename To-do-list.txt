@@ -13,7 +13,7 @@
 - build an HTML poem page through Github (on a new branch).
     - with some simple styling.
     
-- ~~Talk to Jason about the date/timing/etc.~~
-- ~~Talk to Alex about contributing.~~
+- Talk to Jason about the date/timing/etc. DONE
+- Talk to Alex about contributing. DONE
 
 - write description of Intro and Workshop for the Newsletter.
