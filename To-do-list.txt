@@ -17,3 +17,5 @@
 - Talk to Alex about contributing. DONE
 
 - write description of Intro and Workshop for the Newsletter.
+
+- Using Alex's Repo: test Forking and Pull Requests
