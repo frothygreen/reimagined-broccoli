@@ -12,4 +12,4 @@ R: Hey Alex! I tried out the Reimagined-Broccoli Wiki feature - could come in ha
 
 R: Anyway, hope you and yours have a lovely Xmas! 
 
-R: testing how Pull Request from a branch work
+R: testing how Pull Request from a branch works
