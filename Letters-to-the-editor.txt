@@ -13,3 +13,5 @@ R: Hey Alex! I tried out the Reimagined-Broccoli Wiki feature - could come in ha
 R: Anyway, hope you and yours have a lovely Xmas!
 
 R: Looking forward to the meeting tonight! (Jan 8)
+
+R: Looking into the "Staging Area" on Github Desktop
