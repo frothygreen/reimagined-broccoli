@@ -30,3 +30,5 @@
 - started 2026 with a little bit of housekeeping 
 - got Github Desktop working with Brackets Editor
 - also added a To-do-list.txt file
+- added a Comments page to the Wiki to direct to any commit comments.
+- also started an Issue.
