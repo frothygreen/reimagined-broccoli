@@ -7,7 +7,7 @@
 - set out some 'writing structures' that we can start with
 - maybe we could examine Japanese linked verse [Renga Wiki](https://rengarenku.fandom.com/wiki/Renku)
 
-**Recipe:**
+## **Recipe:**
 
 1. figure out the basics of Github
 2. test that collaboration is working
@@ -30,3 +30,5 @@
 - started 2026 with a little bit of housekeeping 
 - got Github Desktop working with Brackets Editor
 - also added a To-do-list.txt file
+- added a Comments page to the Wiki to direct to any commit comments.
+- also started an Issue.
