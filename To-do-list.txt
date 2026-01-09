@@ -21,3 +21,4 @@
 - Using Alex's Repo: test Forking and Pull Requests
 
 - use a browser-based whiteboard during the Workshop?
+- I think the whiteboard will be useful.
