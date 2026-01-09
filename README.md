@@ -7,7 +7,7 @@
 - set out some 'writing structures' that we can start with
 - maybe we could examine Japanese linked verse [Renga Wiki](https://rengarenku.fandom.com/wiki/Renku)
 
-**Recipe:**
+## **Recipe:**
 
 1. figure out the basics of Github
 2. test that collaboration is working
