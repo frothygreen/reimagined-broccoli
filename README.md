@@ -32,3 +32,9 @@
 - also added a To-do-list.txt file
 - added a Comments page to the Wiki to direct to any commit comments.
 - also started an Issue.
+
+**webpage on GitHub**
+
+*see index.html above*
+
+- [Test page](https://frothygreen.github.io/reimagined-broccoli/)
